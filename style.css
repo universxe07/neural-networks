@@ -1,0 +1,65 @@
+.heading{
+
+    width: 70%;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: cadetblue;
+    color: aliceblue;
+    font-size: 50px;
+    border-color: black;
+    border-width: 7px;
+  }
+  
+  .name_of_objects{
+  
+    color: black;
+    font-size: 20px;
+    border-radius:10px ;
+  }
+  
+  body{
+  
+    background-color: lightblue;
+  }
+  
+  hr{
+  
+   background-color: black;
+   height: 1px;
+  }
+  
+  #camera{
+  
+    width: 350px;
+    height: 300px;
+    border-radius: 7px;
+    border: rgb(102, 110, 154) ridge 7px;
+  }
+  
+  #result{
+  
+    width: 350px;
+    height: 300px;
+    border-radius: 7px;
+    border: rgb(102, 110, 154) ridge 7px; 
+  }
+  
+  #result_object_name{
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
+  
+  #result_object_accuracy{
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    
+  }
+  
+  p{
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
+ 
